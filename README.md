@@ -3,22 +3,6 @@
 </p>
 <div align="center">
 
-# Hi, I’m Amir Shazad 👋
-
-### NGS Bioinformatics | Metagenomics | RNA-seq | Microbiome Data Analysis | Python | AI-Assisted Workflows
-
-<p align="center">
-  <img src="https://img.shields.io/badge/NGS-Bioinformatics-blue" />
-  <img src="https://img.shields.io/badge/Metagenomics-Microbiome-green" />
-  <img src="https://img.shields.io/badge/RNA--seq-Transcriptomics-orange" />
-  <img src="https://img.shields.io/badge/Python-Data%20Analysis-yellow" />
-  <img src="https://img.shields.io/badge/AI-Agentic%20Workflows-purple" />
-</p>
-
-</div>
-
----
-
 ## 👨‍🔬 About Me
 
 I am a PhD researcher in **Food Engineering and Biotechnology** with a growing focus on **NGS bioinformatics, metagenomics, RNA-seq, microbiome data analysis, Python-based omics workflows, and AI-assisted computational biology**.
