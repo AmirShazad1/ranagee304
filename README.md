@@ -20,8 +20,6 @@
 
 ## 👨‍🔬 About Me
 
-## 👨‍🔬 About Me
-
 I am a **Postdoctoral Researcher and PhD graduate in Food Engineering and Biotechnology**, working at the interface of **food biotechnology, microbiome science, fermentation, functional foods, molecular microbiology, analytical science, and computational biology**.
 
 My current focus is on strengthening my expertise in **NGS bioinformatics, metagenomics, RNA-seq, microbiome data analysis, Python-based omics workflows, and AI-assisted computational biology**.
