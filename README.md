@@ -2,6 +2,8 @@
   <img src="banner.png" alt="Amir Shazad | NGS Bioinformatics" width="100%">
 </p>
 <div align="center">
+# Hi, I’m Amir Shazad 👋
+
 ### NGS Bioinformatics | Metagenomics | RNA-seq | Microbiome Data Analysis | Python | AI-Assisted Workflows
 
 <p align="center">
