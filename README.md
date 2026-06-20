@@ -2,6 +2,19 @@
   <img src="banner.png" alt="Amir Shazad | NGS Bioinformatics" width="100%">
 </p>
 <div align="center">
+### NGS Bioinformatics | Metagenomics | RNA-seq | Microbiome Data Analysis | Python | AI-Assisted Workflows
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NGS-Bioinformatics-blue" />
+  <img src="https://img.shields.io/badge/Metagenomics-Microbiome-green" />
+  <img src="https://img.shields.io/badge/RNA--seq-Transcriptomics-orange" />
+  <img src="https://img.shields.io/badge/Python-Data%20Analysis-yellow" />
+  <img src="https://img.shields.io/badge/AI-Agentic%20Workflows-purple" />
+</p>
+
+</div>
+
+---
 
 ## 👨‍🔬 About Me
 
