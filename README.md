@@ -20,11 +20,13 @@
 
 ## 👨‍🔬 About Me
 
-I am a PhD researcher in **Food Engineering and Biotechnology** with a growing focus on **NGS bioinformatics, metagenomics, RNA-seq, microbiome data analysis, Python-based omics workflows, and AI-assisted computational biology**.
+## 👨‍🔬 About Me
 
-My background connects **food biotechnology, fermentation, microbiome science, functional foods, molecular microbiology, analytical science, and computational biology**. I am especially interested in using bioinformatics and AI-supported workflows to transform complex biological datasets into meaningful scientific interpretation.
+I am a **Postdoctoral Researcher and PhD graduate in Food Engineering and Biotechnology**, working at the interface of **food biotechnology, microbiome science, fermentation, functional foods, molecular microbiology, analytical science, and computational biology**.
 
-My goal is to build practical, reproducible, and biologically meaningful workflows that connect **wet-lab research, sequencing data, computational analysis, and real-world scientific applications**.
+My current focus is on strengthening my expertise in **NGS bioinformatics, metagenomics, RNA-seq, microbiome data analysis, Python-based omics workflows, and AI-assisted computational biology**.
+
+I am especially interested in using **bioinformatics, automation, and AI-supported workflows** to transform complex biological datasets into meaningful scientific interpretation. My goal is to build practical, reproducible, and biologically meaningful workflows that connect **wet-lab research, sequencing data, computational analysis, and real-world scientific applications**.
 
 ---
 
